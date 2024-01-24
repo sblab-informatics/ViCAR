@@ -1,2 +1,2 @@
 # ViCAR
-Mapping of G-quadruplex anchored 3D chromatin structure
+ Analysis pipeline for antibody recognized 3d genome interactions
